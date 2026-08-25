@@ -15,3 +15,11 @@
 - Tools: VS Code, GitHub Desktop
 - Field of Focus in Computer Science: Software Engineering
 - Goal for This Semester: I want to build a software product for the final project that is genuinely useful.
+  
+## Justin B. Lauricio
+
+- Preferred Name: Lau
+- Skills: Python, Java, JavaScript, SQL
+- Tools: VS Code, Github, Figma
+- Field of Focus in Computer Science: Software Engineering, Cybersecurity
+- Fun Fact or Goal: I want to improve my soft and technical skills this semester.
