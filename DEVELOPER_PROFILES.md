@@ -1,9 +1,9 @@
 # Developer Profiles
 
-## Student 1
+## Rose Antonette S. Kaindoy
 
-- Preferred Name: Student 1
-- Skills: 
-- Tools: 
-- Field of Focus in Computer Science: 
-- Fun Fact or Goal: 
+- Preferred Name: Sei / Rose
+- Skills: HTML, Python, JavaScript
+- Tools: VS Code, Git, Figma
+- Field of Focus in Computer Science: Web Development
+- Goal for This Semester: I want to delve into Software Engineering as well.
