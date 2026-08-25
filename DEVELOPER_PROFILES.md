@@ -15,3 +15,11 @@
 - Tools: VS Code, GitHub Desktop
 - Field of Focus in Computer Science: Software Engineering
 - Goal for This Semester: I want to build a software product for the final project that is genuinely useful.
+
+## Trisha Mae A. Hechenagocia
+
+- Preferred Name: Trish / Tri
+- Skills: Java, Typescript, React
+- Tools: VS Code, GitHub Desktop
+- Field of Focus in Computer Science: Full stack Engineering
+- Goal for This Semester: I want to contribute/ make products that are meaningful.
