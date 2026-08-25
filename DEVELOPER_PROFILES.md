@@ -22,4 +22,12 @@
 - Skills: Python, Java, JavaScript, SQL
 - Tools: VS Code, Github, Figma
 - Field of Focus in Computer Science: Software Engineering, Cybersecurity
-- Fun Fact or Goal: I want to improve my soft and technical skills this semester.
+- Goal for This Semester: I want to improve my soft and technical skills this semester.
+
+## Trisha Mae A. Hechenagocia
+
+- Preferred Name: Trish / Tri
+- Skills: Java, Typescript, React
+- Tools: VS Code, GitHub Desktop
+- Field of Focus in Computer Science: Full stack Engineering
+- Goal for This Semester: I want to contribute/ make products that are meaningful.
